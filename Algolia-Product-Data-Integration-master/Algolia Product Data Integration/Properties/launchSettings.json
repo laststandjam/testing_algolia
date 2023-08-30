@@ -1,9 +1,0 @@
-{
-  "profiles": {
-    "Algolia_Product_Data_Integration": {
-      "commandName": "Project",
-      "commandLineArgs": "--port 7090",
-      "launchBrowser": false
-    }
-  }
-}

@@ -1,1 +1,0 @@
-# Algolia Product Data Integration
